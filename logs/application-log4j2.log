@@ -1,0 +1,10 @@
+2025-01-11 19:48:19.638 [ INFO] [  restartedMain] i.g.h.d.DianviCoreApplication            : Starting DianviCoreApplication using Java 17.0.13 with PID 28068 (C:\Workspaces\Projects\dianvi-core\target\classes started by chlwh in C:\Workspaces\Projects\dianvi-core)
+2025-01-11 19:48:19.641 [DEBUG] [  restartedMain] i.g.h.d.DianviCoreApplication            : Running with Spring Boot v3.3.7, Spring v6.1.16
+2025-01-11 19:48:19.641 [ INFO] [  restartedMain] i.g.h.d.DianviCoreApplication            : No active profile set, falling back to 1 default profile: "default"
+2025-01-11 19:48:19.993 [ INFO] [  restartedMain] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-127.0.0.1-8080"]
+2025-01-11 19:48:20.003 [ INFO] [  restartedMain] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2025-01-11 19:48:20.004 [ INFO] [  restartedMain] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-11 19:48:20.026 [ INFO] [  restartedMain] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2025-01-11 19:48:20.162 [ INFO] [  restartedMain] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-127.0.0.1-8080"]
+2025-01-11 19:48:20.174 [ INFO] [  restartedMain] i.g.h.d.DianviCoreApplication            : Started DianviCoreApplication in 0.713 seconds (process running for 1.034)
+2025-01-11 19:48:20.176 [ INFO] [  restartedMain] i.g.h.d.DianviCoreApplication            : DianviCoreApplication started successfully
